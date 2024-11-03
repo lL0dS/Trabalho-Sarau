@@ -46,9 +46,7 @@
             <p>Guilherme Silva Lopes 2_A</p>
             <p>Professor Conselheiro: Professor André</p>
             <img src="LOGO_CEMI.jpg" alt="Logo" class="logo"> <!-- Logo aqui -->
-           
         </div>
-    </div>
     <footer>
        <p>&copy; 2024 Mitologia Grega e Nórdica</p>
     </footer>
