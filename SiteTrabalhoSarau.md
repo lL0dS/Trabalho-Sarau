@@ -45,6 +45,7 @@
             <p>Enzo 1_A</p>
             <p>Guilherme Silva Lopes 2_A</p>
             <p>Professor Conselheiro: Professor André</p>
+            <p>Código da Sala: E04-SALA09</p>
             <img src="cemicruzeiro.jpg" alt="Logo" class="logo"> <!-- Logo aqui -->
         </div>
     <footer>
