@@ -3,6 +3,7 @@
 
 <body>
     <header>
+          <h1>Mitologia Grega e Nórdica</h1>
     </header>
     <div class="container">
         <div class="myth">
@@ -45,11 +46,11 @@
             <p>Guilherme Silva Lopes 2_A</p>
             <p>Professor Conselheiro: Professor André</p>
             <img src="LOGO_CEMI.jpg" alt="Logo" class="logo"> <!-- Logo aqui -->
-            <h1>Mitologia Grega e Nórdica</h1>
+           
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 Mitologia Grega e Nórdica</p>
+       <p>&copy; 2024 Mitologia Grega e Nórdica</p>
     </footer>
 </body>
 </html>
